@@ -1,2 +1,2 @@
 # Wasserstein-Gradient-descent
-An Implementationof Wasserstein gradient descent by python
+An Implementation of Wasserstein gradient descent by python
