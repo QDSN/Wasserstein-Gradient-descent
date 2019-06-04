@@ -1,2 +1,5 @@
 # Wasserstein-Gradient-descent
-An Implementation of Wasserstein gradient descent by python
+最適輸送理論を応用したグラフ上の確率分布の最適化に関する勾配降下法です。
+
+グラフ上の確率分布全体の空間がWasserstein距離から誘導される多様体構造を持つときグラフ構造を反映したパラメータの更新を行うことができます。
+自然勾配法との比較も載せてます。
